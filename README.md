@@ -36,3 +36,25 @@ npx eslint --init
 yarn add -D eslint-plugin-react @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-react-hooks
 
 ```
+
+### 3. prettier 설치 위의 블로그 참고해서 진행
+
+```
+yarn add -D prettier eslint-plugin-prettier
+```
+
+### 4. husky 설치
+
+```
+  yarn add -D husky
+  yarn add -D lint-staged
+
+```
+
+### 5. react-native-magnus 설치 https://github.com/jsartisan/react-native-magnus
+
+```
+UI 프레임워크 설치
+
+yarn add react-native-magnus
+```
