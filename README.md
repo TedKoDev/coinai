@@ -21,3 +21,18 @@
 - react-native-firebase/app : Firebase 연동을 위한 모듈
 yarn add @react-native-firebase/app
 ```
+
+### 2. React-native-Eslint 설치
+
+setting up eslint-prettier-husky[https://deku.posstree.com/ko/react-native/eslint-prettier-husky-lint-staged/]
+
+```
+- Eslint : 코드의 품질을 검사하는 도구
+yarn add eslint --dev
+
+npx eslint --init
+
+
+yarn add -D eslint-plugin-react @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-react-hooks
+
+```
