@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887173656858",
+    "project_id": "coinai-e185b",
+    "storage_bucket": "coinai-e185b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887173656858:android:3fdf81fea80da9271efca3",
+        "android_client_info": {
+          "package_name": "com.coinai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLkeIW8jxr0kamPSFS1XBzwGheeRPt_IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
